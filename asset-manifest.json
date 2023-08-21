@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/://yoseph0524.github.io/react-for/static/css/main.6683479f.css",
-    "main.js": "/://yoseph0524.github.io/react-for/static/js/main.06913059.js",
-    "index.html": "/://yoseph0524.github.io/react-for/index.html",
-    "main.6683479f.css.map": "/://yoseph0524.github.io/react-for/static/css/main.6683479f.css.map",
-    "main.06913059.js.map": "/://yoseph0524.github.io/react-for/static/js/main.06913059.js.map"
+    "main.css": "/react-for/static/css/main.6683479f.css",
+    "main.js": "/react-for/static/js/main.512bef25.js",
+    "index.html": "/react-for/index.html",
+    "main.6683479f.css.map": "/react-for/static/css/main.6683479f.css.map",
+    "main.512bef25.js.map": "/react-for/static/js/main.512bef25.js.map"
   },
   "entrypoints": [
     "static/css/main.6683479f.css",
-    "static/js/main.06913059.js"
+    "static/js/main.512bef25.js"
   ]
 }
